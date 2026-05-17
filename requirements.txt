@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymupdf
+voyageai
+qdrant-client
+openai
+python-dotenv
+streamlit
+python-multipart
+pillow
+requests
